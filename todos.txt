@@ -1,5 +1,5 @@
-academy
 python
 german
 gym
-among sus
+academy
+school
